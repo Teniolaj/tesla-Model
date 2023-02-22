@@ -115,19 +115,3 @@ input:focus {
     padding: 20px 80px;
 }
 
-@media only screen and (max-width: 1000px) {
-    .container {
-        height: 70vh;
-        width: 70vw;
-        background: linear-gradient(to bottom, #383434 50%, #ffffff 50% 100%);
-    }
-    .image-container {
-        width: 30rem;
-        margin: none;
-        position: relative;
-        margin-top: 8vh;
-    }
-    .image-container img {
-        width: 100%;
-    }
-}
